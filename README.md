@@ -5,7 +5,7 @@
 - 📫 Teaching myself a lot of new things
 
 ### Spotify Playing 🎧
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=313mhzf45phrriiwvawj5hlmp2ue&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/313mhzf45phrriiwvawj5hlmp2ue)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=313mhzf45phrriiwvawj5hlmp2ue&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=313mhzf45phrriiwvawj5hlmp2ue&redirect=true)
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
